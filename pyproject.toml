@@ -64,11 +64,11 @@ all = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/mdd4tables"
-Documentation = "https://github.com/yourusername/mdd4tables#readme"
-Repository = "https://github.com/yourusername/mdd4tables"
-"Bug Tracker" = "https://github.com/yourusername/mdd4tables/issues"
-Changelog = "https://github.com/yourusername/mdd4tables/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/mdd4tables/mdd4tables"
+Documentation = "https://mdd4tables.github.io/mdd4tables"
+Repository = "https://github.com/mdd4tables/mdd4tables"
+"Bug Tracker" = "https://github.com/mdd4tables/mdd4tables/issues"
+Changelog = "https://github.com/mdd4tables/mdd4tables/blob/main/CHANGELOG.md"
 
 [tool.setuptools.packages.find]
 where = ["."]

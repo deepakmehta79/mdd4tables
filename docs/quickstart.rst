@@ -22,7 +22,7 @@ Installation
 
 .. code-block:: bash
 
-   git clone https://github.com/deepakmehta79/mdd4tables.git
+   git clone https://github.com/mdd4tables/mdd4tables.git
    cd mdd4tables
    pip install -e ".[all]"
 

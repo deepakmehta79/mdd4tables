@@ -7,7 +7,7 @@ mdd4tables Documentation
    :target: https://www.python.org/downloads/
 
 .. image:: https://img.shields.io/badge/license-MIT-green.svg
-   :target: https://github.com/deepakmehta79/mdd4tables/blob/main/LICENSE
+   :target: https://github.com/mdd4tables/mdd4tables/blob/main/LICENSE
 
 What is an MDD?
 ---------------
@@ -91,7 +91,7 @@ Installation
    pip install mdd4tables[viz]
 
    # Development installation
-   git clone https://github.com/deepakmehta79/mdd4tables.git
+   git clone https://github.com/mdd4tables/mdd4tables.git
    cd mdd4tables
    pip install -e ".[all]"
 
